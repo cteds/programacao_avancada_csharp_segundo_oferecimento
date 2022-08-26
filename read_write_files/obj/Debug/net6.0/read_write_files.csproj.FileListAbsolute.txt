@@ -1,0 +1,15 @@
+C:\dev\read_write_files\bin\Debug\net6.0\read_write_files.exe
+C:\dev\read_write_files\bin\Debug\net6.0\read_write_files.deps.json
+C:\dev\read_write_files\bin\Debug\net6.0\read_write_files.runtimeconfig.json
+C:\dev\read_write_files\bin\Debug\net6.0\read_write_files.dll
+C:\dev\read_write_files\bin\Debug\net6.0\read_write_files.pdb
+C:\dev\read_write_files\obj\Debug\net6.0\read_write_files.csproj.AssemblyReference.cache
+C:\dev\read_write_files\obj\Debug\net6.0\read_write_files.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\read_write_files\obj\Debug\net6.0\read_write_files.AssemblyInfoInputs.cache
+C:\dev\read_write_files\obj\Debug\net6.0\read_write_files.AssemblyInfo.cs
+C:\dev\read_write_files\obj\Debug\net6.0\read_write_files.csproj.CoreCompileInputs.cache
+C:\dev\read_write_files\obj\Debug\net6.0\read_write_files.dll
+C:\dev\read_write_files\obj\Debug\net6.0\refint\read_write_files.dll
+C:\dev\read_write_files\obj\Debug\net6.0\read_write_files.pdb
+C:\dev\read_write_files\obj\Debug\net6.0\read_write_files.genruntimeconfig.cache
+C:\dev\read_write_files\obj\Debug\net6.0\ref\read_write_files.dll
