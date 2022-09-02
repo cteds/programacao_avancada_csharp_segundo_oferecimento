@@ -1,0 +1,140 @@
+{
+  "Server": [
+    { "host": "labsoft.pcs.usp.br" }
+  ],
+  "Antonio Oliveira Pedroso da Cruz": [
+    { "usuario": "usuario_1" },
+    { "banco": "db_1" },
+    { "senha": "CPF" }
+  ],
+  "Bruno Maia de Oliveira Duarte": [
+    { "usuario": "usuario_2" },
+    { "banco": "db_2" },
+    { "senha": "CPF" }
+  ],
+  "Caique Novaes Tsurumaki Pereira": [
+    { "usuario": "usuario_3" },
+    { "banco": "db_3" },
+    { "senha": "CPF" }
+  ],
+  "GABRIEL BARBERINI RODRIGUES CARVALHO": [
+    { "usuario": "usuario_4" },
+    { "banco": "db_4" },
+    { "senha": "CPF" }
+  ],
+  "Gabriel Di Vanna Camargo": [
+    { "usuario": "usuario_5" },
+    { "banco": "db_5" },
+    { "senha": "CPF" }
+  ],
+  "Gabriel Galdino Gomes": [
+    { "usuario": "usuario_6" },
+    { "banco": "db_6" },
+    { "senha": "CPF" }
+  ],
+  "Giovani Tavares de Andrade": [
+    { "usuario": "usuario_7" },
+    { "banco": "db_7" },
+    { "senha": "CPF" }
+  ],
+  "Gustavo Costa de Andrade": [
+    { "usuario": "usuario_8" },
+    { "banco": "db_8" },
+    { "senha": "CPF" }
+  ],
+  "Hector Shin Emura": [
+    { "usuario": "usuario_9" },
+    { "banco": "db_9" },
+    { "senha": "CPF" }
+  ],
+  "Henrique Araujo De Carvalho": [
+    { "usuario": "usuario_10" },
+    { "banco": "db_10" },
+    { "senha": "CPF" }
+  ],
+  "Henrique Eduardo dos Santos de Souza": [
+    { "usuario": "usuario_11" },
+    { "banco": "db_11" },
+    { "senha": "CPF" }
+  ],
+  "Hideki Goecking Hanaoka": [
+    { "usuario": "usuario_12" },
+    { "banco": "db_12" },
+    { "senha": "CPF" }
+  ],
+  "Joao Pedro Albiero Cezar": [
+    { "usuario": "usuario_13" },
+    { "banco": "db_13" },
+    { "senha": "CPF" }
+  ],
+  "Lucas Saraceni Carvalho": [
+    { "usuario": "usuario_14" },
+    { "banco": "db_14" },
+    { "senha": "CPF" }
+  ],
+  "Luccas Araujo Benjamim": [
+    { "usuario": "usuario_15" },
+    { "banco": "db_15" },
+    { "senha": "CPF" }
+  ],
+  "Luiz Eduardo Tojal Ramos Santos": [
+    { "usuario": "usuario_16" },
+    { "banco": "db_16" },
+    { "senha": "CPF" }
+  ],
+  "Marcos Paulo Pacifico": [
+    { "usuario": "usuario_17" },
+    { "banco": "db_17" },
+    { "senha": "CPF" }
+  ],
+  "Mario Guilherme Batista": [
+    { "usuario": "usuario_18" },
+    { "banco": "db_18" },
+    { "senha": "CPF" }
+  ],
+  "Matheus de Paula Silva": [
+    { "usuario": "usuario_19" },
+    { "banco": "db_19" },
+    { "senha": "CPF" }
+  ],
+  "Matheus Ribeiro Lira": [
+    { "usuario": "usuario_20" },
+    { "banco": "db_20" },
+    { "senha": "CPF" }
+  ],
+  "Milton Katuyiro Marubayashi Junior": [
+    { "usuario": "usuario_21" },
+    { "banco": "db_21" },
+    { "senha": "CPF" }
+  ],
+  "Pedro Augusto Cardoso Campos": [
+    { "usuario": "usuario_22" },
+    { "banco": "db_22" },
+    { "senha": "CPF" }
+  ],
+  "Pedro Henrique Machado Almeida": [
+    { "usuario": "usuario_23" },
+    { "banco": "db_23" },
+    { "senha": "CPF" }
+  ],
+  "Thiago Perroni Meletti": [
+    { "usuario": "usuario_24" },
+    { "banco": "db_24" },
+    { "senha": "CPF" }
+  ],
+  "Thiago Santin Parussolo": [
+    { "usuario": "usuario_25" },
+    { "banco": "db_25" },
+    { "senha": "CPF" }
+  ],
+  "Vinicius Tavares Coelho": [
+    { "usuario": "usuario_26" },
+    { "banco": "db_26" },
+    { "senha": "CPF" }
+  ],
+  "Vitor Luiz Bortoloti Pereira": [
+    { "usuario": "usuario_27" },
+    { "banco": "db_27" },
+    { "senha": "CPF" }
+  ]
+}
