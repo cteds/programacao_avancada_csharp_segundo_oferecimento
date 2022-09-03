@@ -16,11 +16,18 @@ namespace accessing_db.Repositories
         {
             using (SqlConnection con = new SqlConnection(stringConexao))
             {
-                string queryInsert = $"INSERT INTO Products (IdProduct, Name, Description, Price) VALUES ('{newProduct.IdProduct}', '{newProduct.Name}', '{newProduct.Description}', {newProduct.Price})";
                 // SQL Injection
+                //string queryInsert = $"INSERT INTO Products (IdProduct, Name, Description, Price) VALUES ('{newProduct.IdProduct}', '{newProduct.Name}', '{newProduct.Description}', {newProduct.Price})";
+                
+                string queryInsert = "INSERT INTO Products (IdProduct, Name, Description, Price) VALUES (@IdProduct, @Name, @Description, @Price)";
 
                 using (SqlCommand cmd = new SqlCommand(queryInsert, con))
                 {
+                    cmd.Parameters.AddWithValue("@IdProduct", newProduct.IdProduct);
+                    cmd.Parameters.AddWithValue("@Name", newProduct.Name);
+                    cmd.Parameters.AddWithValue("@Description", newProduct.Description);
+                    cmd.Parameters.AddWithValue("@Price", newProduct.Price);
+
                     con.Open();
 
                     cmd.ExecuteNonQuery();

@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\programacao_avancada_csharp_segundo_oferecimento\\accessing_db\\accessing_db.csproj",
+      "projectUniqueName": "C:\\dev\\accessing_db\\accessing_db.csproj",
       "projectName": "accessing_db",
-      "projectPath": "C:\\Users\\admin\\Desktop\\programacao_avancada_csharp_segundo_oferecimento\\accessing_db\\accessing_db.csproj",
+      "projectPath": "C:\\dev\\accessing_db\\accessing_db.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\programacao_avancada_csharp_segundo_oferecimento\\accessing_db\\obj\\",
+      "outputPath": "C:\\dev\\accessing_db\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p6HYFyw3BjqHIhWB5Wa3wcW7f87j6nGKtSXxQ+RYM+qvPKAtDjhP73w7KauaTN+qVCuxv9awEgIfTY1Jg4jPGw==",
+  "dgSpecHash": "Vh2c7qC+mO1qx26zzluT2S2hufxhBLOPfIWfezt0LI7HfWZaK8dsp5N7dDIpusy4JpltYGfqKd3RBsvcSTCYFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\programacao_avancada_csharp_segundo_oferecimento\\accessing_db\\accessing_db.csproj",
+  "projectFilePath": "C:\\dev\\accessing_db\\accessing_db.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
