@@ -1,5 +1,8 @@
 ﻿namespace deploy_sample.Models
 {
+    /// <summary>
+    /// Propriedades que definem um produto
+    /// </summary>
     public class Product
     {
         public string IdProduct { get; set; } = string.Empty;

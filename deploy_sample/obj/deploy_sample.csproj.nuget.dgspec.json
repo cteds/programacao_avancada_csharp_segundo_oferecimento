@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\deploy_sample\\deploy_sample.csproj": {}
+    "E:\\works\\CTEDS\\segundo oferecimento\\compartilhado\\programacao_avancada_csharp_segundo_oferecimento\\deploy_sample\\deploy_sample.csproj": {}
   },
   "projects": {
-    "C:\\dev\\deploy_sample\\deploy_sample.csproj": {
+    "E:\\works\\CTEDS\\segundo oferecimento\\compartilhado\\programacao_avancada_csharp_segundo_oferecimento\\deploy_sample\\deploy_sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\deploy_sample\\deploy_sample.csproj",
+        "projectUniqueName": "E:\\works\\CTEDS\\segundo oferecimento\\compartilhado\\programacao_avancada_csharp_segundo_oferecimento\\deploy_sample\\deploy_sample.csproj",
         "projectName": "deploy_sample",
-        "projectPath": "C:\\dev\\deploy_sample\\deploy_sample.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\deploy_sample\\obj\\",
+        "projectPath": "E:\\works\\CTEDS\\segundo oferecimento\\compartilhado\\programacao_avancada_csharp_segundo_oferecimento\\deploy_sample\\deploy_sample.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "E:\\works\\CTEDS\\segundo oferecimento\\compartilhado\\programacao_avancada_csharp_segundo_oferecimento\\deploy_sample\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,9 +40,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.Data.SqlClient": {
+            "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[4.8.3, )"
             }
           },
           "imports": [
@@ -55,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,13 +2,14 @@
 
 namespace deploy_sample.Interfaces
 {
-    public interface IProduct
+    /// <summary>
+    /// Interface com as operações básicas de manipulação de arquivo
+    /// </summary>
+    internal interface IProduct
     {
-        //Create Read Update Delete - CRUD
-
         List<Product> ReadAll();
 
-        void Create(Product newProduct);
+        void Create(Product product);
 
         void Update(Product product);
 

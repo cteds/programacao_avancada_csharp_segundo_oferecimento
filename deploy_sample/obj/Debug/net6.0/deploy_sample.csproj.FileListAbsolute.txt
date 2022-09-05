@@ -1,56 +1,84 @@
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.AssemblyReference.cache
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.GeneratedMSBuildEditorConfig.editorconfig
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.AssemblyInfoInputs.cache
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.AssemblyInfo.cs
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.CoreCompileInputs.cache
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.MvcApplicationPartsAssemblyInfo.cache
-C:\dev\deploy_sample\bin\Debug\net6.0\appsettings.Development.json
-C:\dev\deploy_sample\bin\Debug\net6.0\appsettings.json
-C:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.exe
-C:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.deps.json
-C:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.runtimeconfig.json
-C:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.pdb
-C:\dev\deploy_sample\bin\Debug\net6.0\Azure.Core.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Azure.Identity.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\System.Memory.Data.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\dev\deploy_sample\obj\Debug\net6.0\staticwebassets.build.json
-C:\dev\deploy_sample\obj\Debug\net6.0\staticwebassets.development.json
-C:\dev\deploy_sample\obj\Debug\net6.0\scopedcss\bundle\deploy_sample.styles.css
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.CopyComplete
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.dll
-C:\dev\deploy_sample\obj\Debug\net6.0\refint\deploy_sample.dll
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.pdb
-C:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.genruntimeconfig.cache
-C:\dev\deploy_sample\obj\Debug\net6.0\ref\deploy_sample.dll
+E:\dev\deploy_sample\bin\Debug\net6.0\appsettings.Development.json
+E:\dev\deploy_sample\bin\Debug\net6.0\appsettings.json
+E:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.exe
+E:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.deps.json
+E:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.runtimeconfig.json
+E:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.dll
+E:\dev\deploy_sample\bin\Debug\net6.0\deploy_sample.pdb
+E:\dev\deploy_sample\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\dev\deploy_sample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\dev\deploy_sample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.AssemblyReference.cache
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.AssemblyInfoInputs.cache
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.AssemblyInfo.cs
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.CoreCompileInputs.cache
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.MvcApplicationPartsAssemblyInfo.cache
+E:\dev\deploy_sample\obj\Debug\net6.0\staticwebassets.build.json
+E:\dev\deploy_sample\obj\Debug\net6.0\staticwebassets.development.json
+E:\dev\deploy_sample\obj\Debug\net6.0\scopedcss\bundle\deploy_sample.styles.css
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.CopyComplete
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.dll
+E:\dev\deploy_sample\obj\Debug\net6.0\refint\deploy_sample.dll
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.pdb
+E:\dev\deploy_sample\obj\Debug\net6.0\deploy_sample.genruntimeconfig.cache
+E:\dev\deploy_sample\obj\Debug\net6.0\ref\deploy_sample.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.AssemblyReference.cache
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.GeneratedMSBuildEditorConfig.editorconfig
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.AssemblyInfoInputs.cache
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.AssemblyInfo.cs
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.CoreCompileInputs.cache
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.MvcApplicationPartsAssemblyInfo.cache
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\refint\deploy_sample.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.pdb
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\appsettings.Development.json
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\appsettings.json
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.exe
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.deps.json
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.runtimeconfig.json
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.pdb
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\staticwebassets.build.json
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\staticwebassets.development.json
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\scopedcss\bundle\deploy_sample.styles.css
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.CopyComplete
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.genruntimeconfig.cache
+E:\works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp_primeiro_oferecimento\deploy_sample\obj\Debug\net6.0\ref\deploy_sample.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\appsettings.Development.json
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\appsettings.json
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.exe
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.deps.json
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.runtimeconfig.json
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\deploy_sample.pdb
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.AssemblyReference.cache
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.GeneratedMSBuildEditorConfig.editorconfig
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.AssemblyInfoInputs.cache
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.AssemblyInfo.cs
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.CoreCompileInputs.cache
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.MvcApplicationPartsAssemblyInfo.cache
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\staticwebassets.build.json
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\staticwebassets.development.json
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\scopedcss\bundle\deploy_sample.styles.css
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.csproj.CopyComplete
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\refint\deploy_sample.dll
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.pdb
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\deploy_sample.genruntimeconfig.cache
+E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\deploy_sample\obj\Debug\net6.0\ref\deploy_sample.dll

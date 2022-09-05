@@ -1,30 +1,43 @@
 ﻿using deploy_sample.Interfaces;
+using deploy_sample.Models;
 using deploy_sample.Repositories;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace deploy_sample.Controllers
 {
-    // http://localhost:5226/api/products
+    [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        private IProduct _productRepository { get; set; }
+        private IProduct _product { get; set; }
 
         public ProductsController()
         {
-            _productRepository = new ProductRepository();
+            _product = new ProductRepository();
         }
 
-        // CRUD - Create,   Read,   Update,             Delete
-        //      - HttpPost, HttGet, HttpPut/HttpPatch,  HttpDelete
         [HttpGet]
         public IActionResult Get()
         {
             try
             {
-                return Ok( _productRepository.ReadAll() );
+                return Ok(_product.ReadAll()); // ok
+            }
+            catch (Exception error)
+            {
+                return BadRequest(error);
+            }
+        }
+
+        [HttpPost]
+        public IActionResult Post(Product newProduct)
+        {
+            try
+            {
+                _product.Create(newProduct);
+
+                return StatusCode(201); // created
             }
             catch (Exception error)
             {

@@ -1,0 +1,13 @@
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\deploy_sample.exe
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\deploy_sample.dll
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\deploy_sample.deps.json
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\deploy_sample.runtimeconfig.json
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\deploy_sample.pdb
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\dev\deploy_sample\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
