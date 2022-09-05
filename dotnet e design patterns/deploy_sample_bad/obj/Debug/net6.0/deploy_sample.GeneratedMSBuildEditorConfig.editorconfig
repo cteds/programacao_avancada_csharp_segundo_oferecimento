@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = deploy_sample
+build_property.RootNamespace = deploy_sample
+build_property.ProjectDir = E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\dotnet e design patterns\deploy_sample_bad\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\works\CTEDS\segundo oferecimento\compartilhado\programacao_avancada_csharp_segundo_oferecimento\dotnet e design patterns\deploy_sample_bad
+build_property._RazorSourceGeneratorDebug = 

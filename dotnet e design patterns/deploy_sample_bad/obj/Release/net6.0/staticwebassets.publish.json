@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VDvsg79GwJRuJcOGylubMKjIl93TCwP6yRUkZU/a3ZY=",
+  "Source": "deploy_sample",
+  "BasePath": "_content/deploy_sample",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
