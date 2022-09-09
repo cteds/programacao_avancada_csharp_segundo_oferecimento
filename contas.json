@@ -136,5 +136,10 @@
     { "usuario": "usuario_27" },
     { "banco": "db_27" },
     { "senha": "CPF" }
+  ],
+  "Alexandre Jun Tsubaki Oide": [
+    { "usuario": "usuario_28" },
+    { "banco": "db_28" },
+    { "senha": "CPF" }
   ]
 }
